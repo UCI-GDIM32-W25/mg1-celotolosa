@@ -2,6 +2,7 @@
 # HW1
 ## Devlog
 Marcelo Tolosa, he/him
+
 My week 1 MG1 break-down was very similar to the code unity structure itself. Specific methods mentioned in the breakdown activity include Instantiate. Attributes and objects that appear in both my breakdown and game include the flower prefab, and sprites for every in game object. Of course, the script itself was a monobehaviour script, and there were two classes that included the Player and PlantCountUI classes.
 
 
